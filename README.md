@@ -1,1 +1,1 @@
-# djangoapi
+# An API using Django
